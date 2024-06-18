@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @Benji00104
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me
+
+Un readme para uno mismo es igual a describirse para la pared
 
 <!---
 Benji00104/Benji00104 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
